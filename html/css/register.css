@@ -1,0 +1,44 @@
+.form{
+    position: absolute;
+    width: auto;
+    right: 100px;
+    top: 50px;
+    background-color: #bac51d;
+    color: white;
+  
+}
+
+.form-group{
+    margin-bottom: 8 px;
+}
+
+.form-control{
+    display: block;
+    width: 100%;
+    padding: 6px 12 px;
+    border-radius: 4px;
+}
+
+.btn button{
+    width: 150px;
+    height: 100px;
+    cursor: pointer;
+    border: 1px solid var(--border-color);
+    border-radius: 00.25em;
+    text-decoration: none;
+    transition: color 1s ease, background-color 0.2s ease;
+    margin-bottom: 40px;
+    margin-right: 180px;
+}
+.image{
+    top: 50px;
+    width: auto;
+    display: block;
+    position: fixed;
+    left: 100px;  
+}
+
+.image img{
+    width: 620px;
+}
+
